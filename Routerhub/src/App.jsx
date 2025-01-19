@@ -6,17 +6,21 @@ import About from './pages/About';
 import Services from './pages/Services';
 import Contact from './pages/Contact';
 import Package from './pages/Packages';
+import Login from './pages/Login';
+import Register from './pages/Register';
 
 const App = () => {
   return (
     <Router>
-      <Navigation /> {/* Render the Navigation bar at the top */}
+      
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/pack" element={<Package />} />
         <Route path="/services" element={<Services />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/register" element={<Register />} />
       </Routes>
     </Router>
   );

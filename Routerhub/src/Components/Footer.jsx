@@ -1,34 +1,41 @@
-import React from 'react';
-import './Footer.css'; // Make sure to create a CSS file for styling
+import React from "react";
+import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from 'react-icons/fa';
+import "./Footer.css";
 
 const Footer = () => {
-    return (
-        <footer className="footer">
-            <div className="footer-content">
-                <div className="footer-section about">
-                    <h2>Travel & Book</h2>
-                    <p>Your one-stop solution for all your travel and hotel booking needs.</p>
-                </div>
-                <div className="footer-section links">
-                    <h2>Quick Links</h2>
-                    <ul>
-                        <li><a href="/about">About Us</a></li>
-                        <li><a href="/contact">Contact Us</a></li>
-                        <li><a href="/terms">Terms & Conditions</a></li>
-                        <li><a href="/privacy">Privacy Policy</a></li>
-                    </ul>
-                </div>
-                <div className="footer-section contact">
-                    <h2>Contact Us</h2>
-                    <p>Email: support@travelbook.com</p>
-                    <p>Phone: +123 456 7890</p>
-                </div>
-            </div>
-            <div className="footer-bottom">
-                &copy; {new Date().getFullYear()} Travel & Book | All Rights Reserved
-            </div>
-        </footer>
-    );
+  return (
+    <footer className="footer">
+      <div className="footer-container">
+        <div className="footer-section">
+          <h3>Contact Us</h3>
+          <p>Email: support@routerhub.com</p>
+          <p>Phone: +1 (123) 456-7890</p>
+        </div>
+        <div className="footer-section">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="/about">About Us</a></li>
+            <li><a href="/privacy">Privacy Policy</a></li>
+            <li><a href="/terms&conditions">Terms and Conditions</a></li>
+          </ul>
+        </div>
+        <div className="footer-section">
+          <h3>Follow Us</h3>
+          <div className="social-icons">
+            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer"><FaFacebook/></a>
+            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer"><FaTwitter/></a>
+            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer"><FaInstagram/></a>
+          </div>
+        </div>
+      </div>
+      <div className="footer-bottom">
+      <p>
+            copyright © 2025 <a href="https://RentRide.com" >RentRide  </a> 
+            | developing by <a href="https://lankanrentals.com" >  Chanaka Malawige</a>
+            </p>
+      </div>
+    </footer>
+  );
 };
 
 export default Footer;
