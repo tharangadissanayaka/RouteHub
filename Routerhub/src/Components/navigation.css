@@ -1,0 +1,99 @@
+/* Navigation bar container */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0f7612; /* Green background */
+  padding: 15px 20px; /* Add padding for a better look */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a slight shadow */
+  position: sticky; /* Make the navbar stick to the top */
+  top: 0;
+  z-index: 1000;
+  color: white;
+}
+
+/* Left Section: Logo and Title */
+.navbar-left {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-logo {
+  width: 50px; /* Set a standard size for the logo */
+  height: auto;
+  margin-right: 10px; /* Add spacing between logo and title */
+}
+
+.navbar-title {
+  font-size: 1.8rem; /* Increase font size for better visibility */
+  font-weight: bold;
+  color: white; /* Ensure it stands out */
+}
+
+/* Center Section: Search Bar */
+.navbar-center {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-search {
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+  margin-right: 10px;
+  width: 250px; /* Slightly larger search bar */
+}
+
+.navbar-search-btn {
+  background-color: #007BFF; /* Blue button */
+  color: white;
+  border: none;
+  padding: 7px 15px; /* Add padding for a better look */
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.navbar-search-btn:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Right Section: Navigation Links */
+.navbar-right {
+  display: flex;
+  gap: 20px; /* Add space between navigation links */
+}
+
+.nav-link {
+  text-decoration: none;
+  color: white;
+  font-size: 1rem;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #ddd; /* Light gray color on hover */
+}
+
+/* Adjust page content to avoid overlap with sticky navbar */
+.content {
+  padding: 40px 20px;
+  margin-top: 20px; /* Add margin between navbar and content */
+}
+
+.content h1 {
+  font-size: 2.5rem;
+  color: #222;
+  margin-bottom: 20px;
+}
+
+.content p {
+  font-size: 1.2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  color: #555;
+  line-height: 1.6;
+}

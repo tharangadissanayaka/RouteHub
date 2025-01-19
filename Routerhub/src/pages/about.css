@@ -1,0 +1,19 @@
+/* About Page Styles */
+/* About Page Styles */
+.about {
+    padding: 50px 20px;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  .about h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .about p {
+    font-size: 1.25rem;
+    margin-bottom: 40px;
+    color: #555;
+  }
+  

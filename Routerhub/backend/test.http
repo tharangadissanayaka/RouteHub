@@ -1,0 +1,5 @@
+### Test Root Endpoint
+GET http://localhost:5001/
+
+### Test Pack Endpoint
+GET http://localhost:5001/pack/2
