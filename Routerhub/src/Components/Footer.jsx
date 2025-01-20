@@ -30,8 +30,7 @@ const Footer = () => {
       </div>
       <div className="footer-bottom">
       <p>
-            copyright © 2025 <a href="https://RentRide.com" >RentRide  </a> 
-            | developing by <a href="https://lankanrentals.com" >  Chanaka Malawige</a>
+            copyright © 2025 <a href="https://Routrehub.com" >Routrehub  </a> 
             </p>
       </div>
     </footer>

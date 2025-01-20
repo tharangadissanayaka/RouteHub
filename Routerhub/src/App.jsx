@@ -8,6 +8,7 @@ import Contact from './pages/Contact';
 import Package from './pages/Packages';
 import Login from './pages/Login';
 import Register from './pages/Register';
+import PrivacyPolicy from './pages/PrivacyPolicy'; // Import PrivacyPolicy component
 
 const App = () => {
   return (
@@ -21,6 +22,8 @@ const App = () => {
         <Route path="/contact" element={<Contact />} />
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
+        <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+        
       </Routes>
     </Router>
   );

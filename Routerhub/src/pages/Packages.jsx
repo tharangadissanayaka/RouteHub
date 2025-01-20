@@ -1,5 +1,8 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
+import Layout from "../components/Layout";
+import Footer from "../Components/Footer";
+
 
 const Package = () => {
   const [packages, setPackages] = useState([]);
@@ -27,6 +30,7 @@ const Package = () => {
   }
 
   return (
+    <Layout>
     <div style={styles.container}>
       <h1>Packages</h1>
       <div style={styles.cardContainer}>
@@ -39,6 +43,8 @@ const Package = () => {
         ))}
       </div>
     </div>
+    <Footer/>
+    </Layout>
   );
 };
 
@@ -63,4 +69,5 @@ const styles = {
   },
 };
 
-export default Package;
+export default Package;   
+

@@ -8,7 +8,7 @@ const Navigation = () => {
       {/* Left section: Logo and title */}
       <div className="navbar-left">
         {/* Add the logo here */}
-        <img src="pictures\logo.png.png" alt="RouterHub Logo" className="navbar-logo" />
+        <img src="pictures\logo1.png" alt="RouterHub Logo" className="navbar-logo" />
         <span className="navbar-title">RouterHub</span>
       </div>
 
@@ -21,10 +21,9 @@ const Navigation = () => {
       {/* Right section: Navigation links */}
       <div className="navbar-right">
         <Link to="/" className="nav-link">Home</Link>
-        <Link to="/about" className="nav-link">About</Link>
         <Link to="/pack" className="nav-link">Packages</Link>
         <Link to="/services" className="nav-link">Services</Link>
-        <Link to="/contact" className="nav-link">Contact</Link>
+        <Link to="/login" className="nav-link">Login</Link>
       </div>
     </nav>
   );
