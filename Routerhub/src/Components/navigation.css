@@ -3,14 +3,13 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #0f7612; /* Green background */
-  padding: 15px 20px; /* Add padding for a better look */
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a slight shadow */
-  position: sticky; /* Make the navbar stick to the top */
+  background-color: #000; /* Change to black */
+  padding: 15px 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  position: sticky;
   top: 0;
   z-index: 1000;
-  color: white;
-
+  color: #fff; /* Update text color to white for better visibility */
 }
 
 /* Left Section: Logo and Title */
@@ -20,15 +19,15 @@
 }
 
 .navbar-logo {
-  width: 50px; /* Set a standard size for the logo */
+  width: 50px;
   height: auto;
-  margin-right: 10px; /* Add spacing between logo and title */
+  margin-right: 10px;
 }
 
 .navbar-title {
-  font-size: 1.8rem; /* Increase font size for better visibility */
+  font-size: 1.8rem;
   font-weight: bold;
-  color: white; /* Ensure it stands out */
+  color: #fff; /* White for contrast */
 }
 
 /* Center Section: Search Bar */
@@ -43,14 +42,14 @@
   border-radius: 5px;
   font-size: 1rem;
   margin-right: 10px;
-  width: 250px; /* Slightly larger search bar */
+  width: 250px;
 }
 
 .navbar-search-btn {
-  background-color: #007BFF; /* Blue button */
+  background-color: #007BFF;
   color: white;
   border: none;
-  padding: 7px 15px; /* Add padding for a better look */
+  padding: 7px 15px;
   border-radius: 5px;
   cursor: pointer;
   font-size: 1rem;
@@ -58,43 +57,24 @@
 }
 
 .navbar-search-btn:hover {
-  background-color: #0056b3; /* Darker blue on hover */
+  background-color: #0056b3;
 }
 
 /* Right Section: Navigation Links */
 .navbar-right {
   display: flex;
-  gap: 20px; /* Add space between navigation links */
+  gap: 20px;
 }
 
 .nav-link {
   text-decoration: none;
-  color: white;
+  color: #fff; /* White text color */
   font-size: 1rem;
   font-weight: 500;
   transition: color 0.3s ease;
 }
 
 .nav-link:hover {
-  color: #ddd; /* Light gray color on hover */
+  color: #ccc; /* Light gray on hover */
 }
 
-/* Adjust page content to avoid overlap with sticky navbar */
-.content {
-  padding: 40px 20px;
-  margin-top: 20px; /* Add margin between navbar and content */
-}
-
-.content h1 {
-  font-size: 2.5rem;
-  color: #222;
-  margin-bottom: 20px;
-}
-
-.content p {
-  font-size: 1.2rem;
-  max-width: 800px;
-  margin: 0 auto;
-  color: #555;
-  line-height: 1.6;
-}
