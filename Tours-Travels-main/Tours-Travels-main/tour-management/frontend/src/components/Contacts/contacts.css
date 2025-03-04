@@ -1,0 +1,57 @@
+.contacts {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  color: #ffffff;
+  font-family: "Raleway", sans-serif;
+  padding-top: 40px;
+  margin-top: 30px;
+  padding-bottom: 90px;
+}
+
+.contacts ul {
+  list-style: none;
+}
+
+.contacts h1,
+.contacts h2,
+.contacts h3,
+.contacts h4,
+.contacts h5,
+.contacts h6 {
+  font-family: Marcellus;
+  color: #ffffff;
+}
+
+.contacts a,
+.contacts a:hover {
+  color: #ffcc00;
+}
+
+.contacts p {
+  color: #cccccc;
+}
+
+.contacts .contact__form .form-control {
+  color: #000000;
+  background-color: #f5f5f5;
+  border: 1px solid #444444;
+}
+
+.contacts .contact__form input.form-control {
+  margin-bottom: 2em;
+  height: calc(2.5em + 0.75rem + 2px);
+}
+
+.contacts .sendbtn {
+  color: #ffffff;
+  background-color: #333333;
+  border: 1px solid #ffffff;
+  padding: 0.6rem 1.5rem;
+  transition: background-color 0.3s;
+}
+
+.contacts .sendbtn:hover {
+  background-color: #555555;
+}

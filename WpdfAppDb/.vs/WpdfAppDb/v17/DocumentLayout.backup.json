@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\RoutreHub\\WpdfAppDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\routrehub\\wpdfappdb\\wpdfappdb\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\routrehub\\wpdfappdb\\wpdfappdb\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\routrehub\\wpdfappdb\\wpdfappdb\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\Migrations\\20250304124030_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpdfAppDb\\Migrations\\20250304124030_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\routrehub\\wpdfappdb\\wpdfappdb\\migrations\\20250102042229_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\migrations\\20250102042229_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\routrehub\\wpdfappdb\\wpdfappdb\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\routrehub\\wpdfappdb\\wpdfappdb\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\routrehub\\wpdfappdb\\wpdfappdb\\migrations\\20250102042506_product_app.db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\migrations\\20250102042506_product_app.db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250304124030_init2.cs",
+              "DocumentMoniker": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\Migrations\\20250304124030_init2.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\Migrations\\20250304124030_init2.cs",
+              "ToolTip": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\Migrations\\20250304124030_init2.cs",
+              "RelativeToolTip": "WpdfAppDb\\Migrations\\20250304124030_init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:40:30.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpdfAppDb\\MainWindow.xaml",
+              "ToolTip": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\MainWindow.xaml",
+              "RelativeToolTip": "WpdfAppDb\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T03:09:54.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpdfAppDb\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwEAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:09:54.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\Product.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\Product.cs",
+              "ToolTip": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\Product.cs",
+              "RelativeToolTip": "WpdfAppDb\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:53:51.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\ProductDbContext.cs",
+              "ToolTip": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\ProductDbContext.cs",
+              "RelativeToolTip": "WpdfAppDb\\ProductDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:07:35.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\App.xaml",
+              "RelativeDocumentMoniker": "WpdfAppDb\\App.xaml",
+              "ToolTip": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\App.xaml",
+              "RelativeToolTip": "WpdfAppDb\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T10:19:18.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250102042229_initial.cs",
+              "DocumentMoniker": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\Migrations\\20250102042229_initial.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\Migrations\\20250102042229_initial.cs",
+              "ToolTip": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\Migrations\\20250102042229_initial.cs",
+              "RelativeToolTip": "WpdfAppDb\\Migrations\\20250102042229_initial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:22:30.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250102042506_product_app.db.cs",
+              "DocumentMoniker": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\Migrations\\20250102042506_product_app.db.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\Migrations\\20250102042506_product_app.db.cs",
+              "ToolTip": "C:\\RoutreHub\\WpdfAppDb\\WpdfAppDb\\Migrations\\20250102042506_product_app.db.cs",
+              "RelativeToolTip": "WpdfAppDb\\Migrations\\20250102042506_product_app.db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:25:06.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

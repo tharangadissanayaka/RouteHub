@@ -1,0 +1,51 @@
+.contacts {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #000000; // Black background
+    color: #ffffff; // White text for visibility
+    font-family: 'Raleway', sans-serif;
+    padding-top: 40px;
+    margin-top: 30px;
+    padding-bottom: 90px;
+
+    ul {
+        list-style: none;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: Marcellus;
+        color: #ffffff; // Pure white headings
+    }
+
+    a, a:hover {
+        color: #ffcc00; // Bright gold links for visibility
+    }
+
+    p {
+        color: #cccccc; // Light grey for paragraph text
+    }
+
+    .contact__form .form-control {
+        color: #000000; // Black text inside input fields
+        background-color: #f5f5f5; // Light grey background for input fields
+        border: 1px solid #444444; // Dark grey border for subtle outline
+    }
+
+    .contact__form input.form-control {
+        margin-bottom: 2em;
+        height: calc(2.5em + .75rem + 2px);
+    }
+
+    .sendbtn {
+        color: #ffffff; // White text on the button
+        background-color: #333333; // Dark grey background for button
+        border: 1px solid #ffffff; // White border for contrast
+        padding: 0.6rem 1.5rem;
+        transition: background-color 0.3s;
+    }
+
+    .sendbtn:hover {
+        background-color: #555555; // Slightly lighter grey on hover
+    }
+}
