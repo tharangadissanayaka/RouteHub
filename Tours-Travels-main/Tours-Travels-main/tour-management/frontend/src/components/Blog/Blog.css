@@ -1,6 +1,6 @@
 .Blog .Blogs img {
   height: 350px;
-  border-radius: 10px;
+  border-radius: 20px;
   -o-object-fit: cover;
      object-fit: cover;
 }
