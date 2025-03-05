@@ -93,8 +93,11 @@ const click =()=>{
             </div>
 
             <div data-aos="fade-up" className='footerParagraph'>
-            At Travel, we are dedicated to creating unforgettable experiences. Our mission is to provide seamless and inspiring journeys that allow you to explore the world with ease and excitement. Whether you're seeking adventure, relaxation, or cultural exploration, our carefully curated packages cater to every traveler's dream. Discover new destinations, embrace unique cultures, and create memories that last a lifetime. Your journey begins with us.
-            </div>
+            At RouteHub, we are dedicated to crafting unforgettable journeys across the tropical paradise of Sri Lanka. Our mission is to provide seamless and inspiring travel experiences, allowing you to discover the island’s breathtaking landscapes, rich heritage, and warm hospitality with ease and excitement.
+
+Whether you're seeking adventure, relaxation, wildlife encounters, or cultural exploration, our carefully curated packages cater to every traveler’s dream.
+
+🏝️ Discover new destinations, embrace unique cultures, and create memories that last a lifetime. Your Sri Lankan adventure begins here with RouteHub!            </div>
 
             <div data-aos="fade-up" className="footerSocials flex">
               <AiOutlineTwitter className="icon"/>
@@ -114,22 +117,22 @@ const click =()=>{
 
               <li className="footerList flex">
                 <FiChevronRight className='icon'/>
-                Travel Insurance
+                Sri Lanka Travel Insurance
               </li>
 
               <li className="footerList flex">
                 <FiChevronRight className='icon'/>
-                Travel Agency
+                Tour Packages & Guided Tours
               </li>
 
               <li className="footerList flex">
                 <FiChevronRight className='icon'/>
-                Tour Packages
+                Wildlife & Adventure Tours
               </li>
 
               <li className="footerList flex">
                 <FiChevronRight className='icon'/>
-                Payment Options
+                Cultural & Heritage Excursions
               </li>
             </div>
             <div data-aos="fade-up" data-aos-duration="4000" className='linkGroup'>
@@ -139,22 +142,22 @@ const click =()=>{
 
               <li className="footerList flex">
                 <FiChevronRight className='icon'/>
-                Car Rentals
+                Car Rentals & Private Transport
               </li>
 
               <li className="footerList flex">
                 <FiChevronRight className='icon'/>
-                Hostel World
+                Luxury Hotels & Eco Lodges
               </li>
 
               <li className="footerList flex">
                 <FiChevronRight className='icon'/>
-                Trivago
+                Sri Lanka Hotels & Resorts
               </li>
 
               <li className="footerList flex">
                 <FiChevronRight className='icon'/>
-                TripAdvisor
+                Sri Lanka Travel Reviews
               </li>
             </div>
             <div data-aos="fade-up" data-aos-duration="5000" className='linkGroup'>
@@ -164,22 +167,22 @@ const click =()=>{
 
               <li className="footerList flex">
                 <FiChevronRight className='icon'/>
-                London Specials
+                Ella & Hill Country Getaways
               </li>
 
               <li className="footerList flex">
                 <FiChevronRight className='icon'/>
-                California Escapes
+                Mirissa & Unawatuna Beach Retreats              </li>
+
+              <li className="footerList flex">
+                <FiChevronRight className='icon'/>
+                Kandy & Cultural Triangle Tours
+
               </li>
 
               <li className="footerList flex">
                 <FiChevronRight className='icon'/>
-                Los Angeles Getaways
-              </li>
-
-              <li className="footerList flex">
-                <FiChevronRight className='icon'/>
-                Miami Vacations
+                Yala & Wilpattu Wildlife Safaris
               </li>
             </div>
            
@@ -187,7 +190,8 @@ const click =()=>{
           </div>
 
           <div className="footerDiv flex">
-            <small>Your Gateway to Unforgettable Adventures</small>
+            <small>Your Gateway to Sri Lanka’s Best Experiences
+            </small>
             
           </div>
         </div>

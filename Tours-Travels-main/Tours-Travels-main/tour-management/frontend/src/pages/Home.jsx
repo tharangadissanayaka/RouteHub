@@ -137,7 +137,7 @@ const Home = () => {
     </section>
     <section>
       <Container>
-      <Subtitle subtitle={'Testimonial'}/>
+      <Subtitle subtitle={'What Our Travelers Say'}/>
     <h1 className='pb-5'>Hear from Our Happy Travelers</h1>  
     <main>
     
@@ -170,9 +170,9 @@ const Home = () => {
                         </div>                    
               <div class="col-sm-10">
             <div class="arrow-down d-none d-lg-block"></div>
-             <h4><strong>Sunaina Samuel</strong></h4>
+             <h4><strong>Navod Samarakoon</strong></h4>
         <p class="testimonial_subtitle"><span>Associate Software Engineer</span><br/>
-            <span>CodeHim</span>
+            <span>CodeGen</span>
                         </p>
                     </div>
                     </div>
@@ -194,10 +194,10 @@ Your journey begins here – where dreams become destinations</p>
                         </div>
            <div class="col-sm-10">
             <div class="arrow-down d-none d-lg-block"></div>
-             <h4><strong>Esther Zawadi</strong></h4>
+             <h4><strong>Hashini Ranaweera</strong></h4>
         <p class="testimonial_subtitle"><span>
           digital strategist</span><br/>
-          <span>Vaxa digital</span>
+          <span>Vega digital</span>
                 </p>
                     </div>
                     </div>
@@ -218,9 +218,9 @@ Discover new places, plan your journey, and set off on unforgettable adventures.
                         </div>
                         <div class="col-sm-10">
                           <div class="arrow-down d-none d-md-block"></div>
-                        <h4><strong>Patrick muriungi</strong></h4>
+                        <h4><strong>Ramiska</strong></h4>
                         <p class="testimonial_subtitle"><span>Web Technologist</span><br/>
-                        <span>Vaxa digital</span>
+                        <span>Vega digital</span>
                         </p>
                     </div>
                     </div>
