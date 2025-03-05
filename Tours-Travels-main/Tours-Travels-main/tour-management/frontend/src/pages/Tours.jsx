@@ -84,6 +84,7 @@ import { Container, Row, Col } from 'reactstrap';
 import { getTours, updateTour } from '../services/api';
 import { Helmet } from "react-helmet";
 import { FaEdit } from "react-icons/fa"; 
+import { Link } from 'react-router-dom';
 
 const Tours = () => {
     const [tours, setTours] = useState([]);
@@ -149,6 +150,7 @@ const Tours = () => {
                 <Container>
                     {loading && <h5 className='text-center pt-5'>Loading......</h5>}
                     {error && <h5 className='text-center pt-5'>{error}</h5>}
+                    <Link to = {"/add-tour"}><button>ADD</button></Link>
                     {!loading && !error &&
                         <Row>
                             {tours.map(tour => (

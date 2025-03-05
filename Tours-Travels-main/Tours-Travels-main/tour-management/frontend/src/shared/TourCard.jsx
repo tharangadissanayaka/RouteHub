@@ -26,7 +26,7 @@ import "./TourCard.css"; // Import CSS
               alert("Tour deleted successfully!");
           } catch (error) {
               console.error("Error deleting tour:", error);
-              alert("Failed to delete tour!");
+            //   alert("Failed to delete tour!");
           }
       }
     };

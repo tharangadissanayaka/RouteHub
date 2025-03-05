@@ -7,6 +7,7 @@ import bodyParser from 'body-parser';
 import tourRoute from './routes/tours.js'
 import userRoute from './routes/users.js'
 import db from './config/db.js'; 
+import morgan from 'morgan'
 import packageRoutes from './routes/packageRoutes.js';
 
 dotenv.config()
@@ -37,6 +38,7 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use(cors());
 app.use(cookieParser());
+app.use(morgan('dev'));
 app.use('/tours',tourRoute)
 app.use('/users',userRoute)
 
